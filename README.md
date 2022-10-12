@@ -31,7 +31,7 @@ I'm a Full Stack Data Scientist
 
 🧠 Started as Economics
 
-👯‍♀️ BA Economics graduate.
+👯‍♀️ BA Economics graduated from University Of Calicut.
 
 🤔 Master in Data Science. Completed from Techolas Technologies Pvt Ltd in Calicut,Kerala,India
 
