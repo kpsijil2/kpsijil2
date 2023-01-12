@@ -1,4 +1,4 @@
-![logo](https://github.com/kpsijil2/kpsijil2/blob/main/Github%20Banner.jpg)
+![logo](https://github.com/kpsijil2/kpsijil2/blob/main/Github%20Banner1.jpg)
 <h1 align="center">Hi 👋, I'm Sijil! 👋</h1>
 <h3 align="center">A Passionate Full Stack Data Scientist</h3>
 
