@@ -23,6 +23,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kpsijil2&" alt="kpsijil2" /></p>
 
-
-
-
+[![Sijil's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=kpsijil2&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/kpsijil2/github-readme-stats#gh-light-mode-only)
